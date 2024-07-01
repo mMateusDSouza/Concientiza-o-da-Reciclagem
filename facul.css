@@ -143,3 +143,12 @@ h2 {
 .titulos_acordeao{
     font-size: 1.2em;
 }
+
+@media screen and (max-width: 437px){
+    .tipos_titulo {
+        height: 2.7em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
